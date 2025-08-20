@@ -9,6 +9,6 @@ Concentração de matrizes aleatórias
 
 Referências:
 
-livro: 
+livro: High-Dimensional Probability - Roman Vershynin - Cambridge University Press (2018)
 
 artigo: https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-6/Clustering-in-Block-Markov-Chains/10.1214/19-AOS1939.full
